@@ -4,7 +4,7 @@ Link to the page https://developer.chrome.com/docs/extensions/get-started
 
 #### Hello World
 
-- Its a simple biggner extension.
+- Its a simple beginner extension.
 
 #### Reading Time
 
