@@ -14,3 +14,7 @@ Link to the page https://developer.chrome.com/docs/extensions/get-started
 #### Focus Mode
 
 - This extension simplifies the styling of the Chrome extension and Chrome Web Store documentation pages so that they are easier to read by removing nav bar and side bars.
+
+#### Tabs Manager
+
+This extexsion organizes your Chrome extension and Chrome Web store documentation tabs in one group tab.
